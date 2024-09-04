@@ -56,7 +56,7 @@ const loop = () => {
       mario.classList.remove('.jump')
       mario.style.bottom = `${marioPosition}px`
 
-      mario.src = './src/img/game-over.png'
+      mario.src = 'src/img/XLIH.gif'
       mario.style.width = '80px'
       mario.style.marginLeft = '50px'
       
